@@ -1,2 +1,1 @@
-# WebData
-It's literally free cloud storage xD
+I just put stuff here so I can use it for my projects...
